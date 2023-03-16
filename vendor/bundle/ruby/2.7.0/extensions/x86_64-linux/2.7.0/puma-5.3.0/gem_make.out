@@ -1,0 +1,22 @@
+current directory: /home/susan/Development/code/phase-4/phase-4-displaying-associated-data-lab/vendor/bundle/ruby/2.7.0/gems/puma-5.3.0/ext/puma_http11
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for BIO_read() in -lcrypto... no
+checking for BIO_read() in -llibeay32... no
+creating Makefile
+
+current directory: /home/susan/Development/code/phase-4/phase-4-displaying-associated-data-lab/vendor/bundle/ruby/2.7.0/gems/puma-5.3.0/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230316-614604-1r0k0br sitelibdir\=./.gem.20230316-614604-1r0k0br clean
+
+current directory: /home/susan/Development/code/phase-4/phase-4-displaying-associated-data-lab/vendor/bundle/ruby/2.7.0/gems/puma-5.3.0/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230316-614604-1r0k0br sitelibdir\=./.gem.20230316-614604-1r0k0br
+compiling http11_parser.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.so
+
+current directory: /home/susan/Development/code/phase-4/phase-4-displaying-associated-data-lab/vendor/bundle/ruby/2.7.0/gems/puma-5.3.0/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230316-614604-1r0k0br sitelibdir\=./.gem.20230316-614604-1r0k0br install
+/bin/install -m 0755 puma_http11.so ./.gem.20230316-614604-1r0k0br/puma
+
+current directory: /home/susan/Development/code/phase-4/phase-4-displaying-associated-data-lab/vendor/bundle/ruby/2.7.0/gems/puma-5.3.0/ext/puma_http11
+make DESTDIR\= sitearchdir\=./.gem.20230316-614604-1r0k0br sitelibdir\=./.gem.20230316-614604-1r0k0br clean
